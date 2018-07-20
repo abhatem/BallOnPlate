@@ -1,5 +1,5 @@
 # Ball on Plate
-A low cost ball and plate system that is built from scratch, a cellphone's camera is used for detecting the position of the ball.
+A low cost ball and plate system that is built from scratch, a cellphone's camera is used for detecting the position of the ball. Video at https://youtu.be/eSXcqw_qibo
 
 I used an An Arduino Mega 2560 board for controlling 2 Servos (MG996R), one for each axis.
 
