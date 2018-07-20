@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BalancingPlate</string>
+    <string name="settings">Settings</string>
+    <string name="help">Help</string>
+</resources>
